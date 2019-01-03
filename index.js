@@ -2,8 +2,5 @@
 let companyName = 'Scuber';
 
  if (companyName !== 'Scuber') {
- catch(err) {
-  console.log(err);
-}
-  
-  console.log(companyName);
+  let companyName = 'TypeError'
+ }
